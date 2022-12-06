@@ -72,7 +72,7 @@ The HTTP error indicator extinguishes.
 *** Value: *#[payload]*
 *** Accept other defaults and save.
 +
-image::database-connector-examples-fe6e9.png[]
+image::database-connector-examples-fe6e9.png[] <== INCORRECT, I don't know the correct way to change an image.
 +
 . Run the project as a Mule app.
 . Assuming your host is localhost, activate the flow by entering the following URL in a browser or in a curl command.
